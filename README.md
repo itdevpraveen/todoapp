@@ -3,7 +3,7 @@ Its an todo app
 
 To run the app install xampp and extract the file under htdocs over the folder "todolist" 
 
-You can find the sql file for the app named " todo_list.sql" .kindly do an import to the database 
+You can find the sql file for the app named " todo_list.sql" .kindly do an import to the database name "todoapp"
 
 Now you can run the applcation
 
